@@ -20,7 +20,7 @@ interface Todo {
   is_done: boolean
 }
 @Component
-export default class Logo extends Vue {
+export default class TodoApp extends Vue {
   title: string = ''
   todos: Array<Todo> = [
     {

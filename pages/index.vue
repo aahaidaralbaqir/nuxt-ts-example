@@ -4,17 +4,12 @@
       <h1 class="title">
         TODO APP
       </h1>
-      <Logo />
+      <Todo />
     </div>
   </div>
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
-
-export default Vue.extend({
-
-})
 </script>
 
 <style>
