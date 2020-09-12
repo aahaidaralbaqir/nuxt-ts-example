@@ -11,7 +11,9 @@
   "dependencies": {
     "@nuxt/typescript-runtime": "^1.0.0",
     "ant-design-vue": "^1.6.4",
-    "nuxt": "^2.14.0"
+    "nuxt": "^2.14.0",
+    "nuxt-property-decorator": "^2.7.2",
+    "ts-loader": "^8.0.3"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.0",
