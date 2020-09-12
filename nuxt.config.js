@@ -29,14 +29,12 @@ export default {
   ** Global CSS
   */
   css: [
-    'ant-design-vue/dist/antd.css'
   ],
   /*
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    '@/plugins/antd-ui'
   ],
   /*
   ** Auto import components
@@ -53,6 +51,7 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    "@nuxtjs/axios"
   ],
   /*
   ** Build configuration
